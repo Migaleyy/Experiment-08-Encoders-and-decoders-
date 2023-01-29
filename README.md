@@ -99,22 +99,25 @@ endmodule
 
 ![encode](https://user-images.githubusercontent.com/118262199/215337039-d5d2eb68-09f9-4b8f-ada1-6a74bf0b0502.png)
 
-
-
-
+![decode](https://user-images.githubusercontent.com/118262199/215337271-18fc2075-cfe6-483e-86f5-25f736d432bc.png)
 
 
 ### TIMING DIGRAMS  
 
+![enwave](https://user-images.githubusercontent.com/118262199/215337295-c6597dd9-1f6f-408c-abee-9f765c0be668.png)
 
+![decwave](https://user-images.githubusercontent.com/118262199/215337307-75e0bab0-aa06-4e39-ae73-754347612145.png)
 
 
 
 ### TRUTH TABLE 
 
+![entt](https://user-images.githubusercontent.com/118262199/215337321-a4fb3e46-e56b-4a38-80da-ccb1990186a9.png)
 
+![dectt](https://user-images.githubusercontent.com/118262199/215337363-462f28d0-5df2-4fb2-ac75-9a511c71c6a1.png)
 
 
 
 
 ### RESULTS 
+8 to 3 Encoder and 3to8 Decoder has been implemented by using verilog and its outputs are validated.
